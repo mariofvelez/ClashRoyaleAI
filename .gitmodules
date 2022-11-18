@@ -1,0 +1,3 @@
+[submodule "vendor/myhtml"]
+	path = vendor/myhtml
+	url = https://github.com/lexborisov/myhtml
